@@ -1,0 +1,16 @@
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.csproj.AssemblyReference.cache
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium_V2.Form1.resources
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium_V2.Properties.Resources.resources
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.csproj.GenerateResource.cache
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.csproj.CoreCompileInputs.cache
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\bin\Debug\Uranium V2.exe.config
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\bin\Debug\Uranium V2.exe
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\bin\Debug\Uranium V2.pdb
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\bin\Debug\FastColoredTextBox.dll
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.csproj.CopyComplete
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.exe
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium V2.pdb
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium_V2.Options.resources
+C:\Users\Aless\Desktop\Uranium V2\Uranium V2\obj\Debug\Uranium_V2.Script_Hub.resources
